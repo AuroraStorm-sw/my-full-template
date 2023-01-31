@@ -6,7 +6,7 @@ body {
 
 nav ul {
     list-style: none;
-    background-color: #4a4a4f;
+    background-color: #49494b;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -28,7 +28,7 @@ nav a {
 
 nav a:hover {
     background-color: #fff;
-    color: #4a4a4f;
+    color: #49494b;
 }
 
 .card{
